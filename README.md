@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Benjamín Carreón  
 ### 💻 Software Engineer
 
-Building scalable web apps, ERP systems & full-stack solutions.
+🚀 Building **scalable web apps, ERP systems & full-stack solutions**
 
 <br/>
 
@@ -20,7 +20,7 @@ Building scalable web apps, ERP systems & full-stack solutions.
 
 <br/><br/>
 
-<!-- Profile Badges -->
+<!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=benjamincarreon&label=Views&style=flat" />
 <img src="https://img.shields.io/github/followers/benjamincarreon?style=flat" />
 
@@ -32,7 +32,7 @@ Building scalable web apps, ERP systems & full-stack solutions.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html,css,nestjs,python,flask,mongodb,supabase,docker,git,github,postman,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,html,css,nestjs,python,flask,mongodb,supabase,git,github,docker,electron,postman)](https://skillicons.dev)
 
 </div>
 
@@ -76,11 +76,20 @@ Building scalable web apps, ERP systems & full-stack solutions.
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me
+- 🏗️ Software architecture & enterprise systems  
+- 🎨 Modern UI/UX  
+- ⚙️ Full-stack development  
+- 🚀 Real-world problem solving  
 
-- ERP Systems (enterprise & security industry)  
-- Medical Chatbot (NLP)  
-- Personal Portfolio  
+---
+
+## 🚀 Featured Projects
+- 🏢 ERP Systems (startup & security company)  
+- 🤖 Medical Chatbot (NLP)  
+- 🌐 Personal Portfolio  
+
+📌 *Some projects are private due to professional use.*
 
 ---
 
