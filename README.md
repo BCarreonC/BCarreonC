@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Benjamín Carreón  
+#  Hi, I'm Benjamín Carreón  
 ### 💻 Software Engineer
 
-🚀 Building **scalable web apps, ERP systems & full-stack solutions**
+ Building **scalable web apps, ERP systems & full-stack solutions**
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=benjamincarreon&label=Views&style=flat" />
-<img src="https://img.shields.io/github/followers/benjamincarreon?style=flat" />
+<img src="https://img.shields.io/github/followers/BCarreonC?style=flat" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,html,css,nestjs,python,flask,mongodb,supabase,git,github,docker,electron,postman)](https://skillicons.dev)
 
@@ -38,39 +38,27 @@
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=benjamincarreon&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamincarreon&layout=compact&hide_border=true"/>
+<!-- Top row -->
+<a href="https://stats.hyo.dev/stats/bcarreonc">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=bcarreonc" width="390"/>
+</a>
+<a href="https://stats.hyo.dev/stats/bcarreonc">
+  <img src="https://stats.hyo.dev/api/github-trophies?login=bcarreonc"/>
+</a>
 
 <br/>
-
-<img height="150em" src="https://streak-stats.demolab.com?user=BCarreonC&hide_border=true"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=BCarreonC&theme=dark&hide_border=true&border_radius=6.0&card_width=790" />
+</a>
 
 </div>
 
----
+<!-- Streak -->
 
-## ⚡ Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benjamincarreon" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benjamincarreon" />
-
-<br/>
-
-<a href="https://stats.hyo.dev/stats/bcarreonc">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=bcarreonc" width="400"/>
-</a>
-
-<a href="https://stats.hyo.dev/stats/bcarreonc">
-  <img src="https://stats.hyo.dev/api/github-trophies?login=bcarreonc" width="400"/>
-</a>
 
 </div>
 
