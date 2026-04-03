@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=benjamincarreon&label=Views&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=bcarreonc&label=Views&style=flat" />
 <img src="https://img.shields.io/github/followers/BCarreonC?style=flat" />
 
 </div>
