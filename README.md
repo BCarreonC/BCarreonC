@@ -1,100 +1,87 @@
 <div align="center">
 
-<!-- Animated Gradient Border -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Benjamín%20Carreón&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 # 👋 Hi, I'm Benjamín Carreón  
 ### 💻 Software Engineer
 
-🚀 Building **scalable web apps, ERP systems & full-stack solutions**
+Building scalable web apps, ERP systems & full-stack solutions.
+
+<br/>
+
+<!-- Social Buttons -->
+<a href="https://benjamincarreon.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/benjamincarreon/">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:benjamin.carreon@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=benjamincarreon&label=Views&style=flat" />
+<img src="https://img.shields.io/github/followers/benjamincarreon?style=flat" />
 
 </div>
-
----
-
-## 🔥 Profile Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=benjamincarreon&label=Profile%20views&color=0e75b6&style=flat)
-
-![Followers](https://img.shields.io/github/followers/benjamincarreon?label=Followers&style=social)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjamincarreon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamincarreon&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ⚡ Tech Usage Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benjamincarreon&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benjamincarreon&theme=tokyonight" />
-
-</div>
-
----
-
-## 🧠 About Me
-- 🏗️ Software architecture & enterprise systems  
-- 🎨 Modern UI/UX  
-- ⚙️ Full-stack development  
-- 🚀 Real-world problem solving  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,html,css)](https://skillicons.dev)
+<div align="center">
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nestjs,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html,css,nestjs,python,flask,mongodb,supabase,docker,git,github,postman,electron)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,electron,postman)](https://skillicons.dev)
+</div>
 
 ---
 
-## 🚀 Featured Projects
-- 🏢 ERP Systems (startup & security company)  
-- 🤖 Medical Chatbot (NLP)  
-- 🌐 Personal Portfolio  
-
-📌 *Some projects are private due to professional use.*
-
----
-
-## 🌐 Portfolio
-👉 https://benjamincarreon.vercel.app  
-
----
-
-## 📫 Contact
-💼 https://www.linkedin.com/in/benjamincarreon/  
-📧 benjamin.carreon@hotmail.com  
-
----
+## 📊 GitHub
 
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=benjamincarreon&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamincarreon&layout=compact&hide_border=true"/>
+
+<br/>
+
+<img height="150em" src="https://streak-stats.demolab.com?user=BCarreonC&hide_border=true"/>
 
 </div>
+
+---
+
+## ⚡ Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benjamincarreon" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benjamincarreon" />
+
+<br/>
+
+<a href="https://stats.hyo.dev/stats/bcarreonc">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=bcarreonc" width="400"/>
+</a>
+
+<a href="https://stats.hyo.dev/stats/bcarreonc">
+  <img src="https://stats.hyo.dev/api/github-trophies?login=bcarreonc" width="400"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+- ERP Systems (enterprise & security industry)  
+- Medical Chatbot (NLP)  
+- Personal Portfolio  
+
+---
+
+<sub>Focused on clean architecture, scalability and real-world systems.</sub>
