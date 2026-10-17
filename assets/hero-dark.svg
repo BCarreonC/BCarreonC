@@ -1,0 +1,112 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="330"
+     viewBox="0 0 1000 330"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Benjamín Carreón</title>
+  <desc id="desc">
+    Full-Stack Developer, Backend and AI Enthusiast
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#151C2D"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x2="1">
+      <stop offset="0%" stop-color="#4F8EFF"/>
+      <stop offset="100%" stop-color="#A58BFA"/>
+    </linearGradient>
+
+    <pattern id="grid"
+             width="36" height="36"
+             patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36"
+            fill="none"
+            stroke="#27344A"
+            stroke-width=".6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="330"
+        rx="16" fill="url(#background)"/>
+
+  <rect width="1000" height="330"
+        rx="16" fill="url(#grid)" opacity=".45"/>
+
+  <!-- Status -->
+  <circle cx="54" cy="47" r="5" fill="#4F8EFF"/>
+  <text x="70" y="52"
+        fill="#9BAAC3" font-size="15"
+        font-family="monospace">
+    SOFTWARE ENGINEER / PORTFOLIO
+  </text>
+
+  <!-- Identity -->
+  <text x="54" y="142"
+        fill="#F8FAFC" font-size="52"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif">
+    Benjamín Carreón
+  </text>
+
+  <rect x="54" y="162"
+        width="120" height="4"
+        rx="2" fill="url(#accent)"/>
+
+  <text x="54" y="208"
+        fill="#D1DBED" font-size="25"
+        font-family="Arial, Helvetica, sans-serif">
+    Full-Stack Developer
+  </text>
+
+  <text x="54" y="242"
+        fill="#8DAAFA" font-size="22"
+        font-family="Arial, Helvetica, sans-serif">
+    Backend &amp; AI Enthusiast
+  </text>
+
+  <text x="54" y="292"
+        fill="#8794AB" font-size="15"
+        font-family="monospace">
+    BUILDING SYSTEMS · CONNECTING INTELLIGENCE
+  </text>
+
+  <!-- Developer terminal -->
+  <g transform="translate(748 83)">
+    <rect x="0" y="0"
+          width="194" height="151"
+          rx="13" fill="#111929"
+          stroke="#385075" stroke-width="1.4"/>
+
+    <path d="M0 34H194"
+          stroke="#385075" stroke-width="1"/>
+
+    <circle cx="19" cy="17" r="4" fill="#FF6B82"/>
+    <circle cx="34" cy="17" r="4" fill="#F8C36B"/>
+    <circle cx="49" cy="17" r="4" fill="#58CF9B"/>
+
+    <path d="M38 75L65 95L38 115"
+          fill="none" stroke="url(#accent)"
+          stroke-width="5"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M89 115H142"
+          fill="none" stroke="#A58BFA"
+          stroke-width="5"
+          stroke-linecap="round"/>
+
+    <path d="M97 -30V0M194 74H225M97 151V179"
+          fill="none" stroke="#5275B5"
+          stroke-width="1.5"
+          stroke-dasharray="4 7"/>
+
+    <circle cx="97" cy="-30" r="4" fill="#4F8EFF"/>
+    <circle cx="225" cy="74" r="4" fill="#A58BFA"/>
+    <circle cx="97" cy="179" r="4" fill="#4F8EFF"/>
+  </g>
+</svg>
