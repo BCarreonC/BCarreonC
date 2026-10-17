@@ -105,7 +105,7 @@ Technologies and tools I use to design, develop and deploy software.
   />
 </p>
 
-`MongoDB` · `PostgreSQL` · `SQLite` · `Redis`
+`MongoDB` · `PostgreSQL` · `SQLite`
 
 ### AI & Machine Learning
 
@@ -149,36 +149,9 @@ A medical office management system designed to handle patients, doctors, appoint
 
 `NestJS` `TypeScript` `FastAPI` `Python` `LangGraph` `MongoDB` `Docker`
 
-**Repository:** Link pending
-
-**Demo:** Not available
-
 ---
 
-### 02 — NEXUS.AI
-
-**League of Legends Analytics Platform**
-
-A full-stack analytics application that retrieves, processes and visualizes League of Legends player statistics using external API integrations.
-
-**Key Features**
-
-- Player profiles and ranked statistics.
-- Match history and detailed performance analytics.
-- Data visualization through interactive charts.
-- Backend API integration and caching with Redis.
-
-**Tech Stack**
-
-`React` `TypeScript` `NestJS` `Redis` `Recharts` `Tailwind CSS`
-
-**Repository:** Link pending
-
-**Demo:** Not available
-
----
-
-### 03 — ERP PULSAR
+### 02 — ERP PULSAR
 
 **Enterprise Resource Planning Desktop Application**
 
@@ -195,13 +168,9 @@ A desktop application designed to centralize business operations through a modul
 
 `Electron` `React` `TypeScript` `Vite`
 
-**Repository:** Link pending
-
-**Demo:** Not available
-
 ---
 
-### 04 — Recruitment System
+### 03 — Recruitment System
 
 **Recruitment Management REST API**
 
@@ -219,10 +188,6 @@ A backend system designed to organize recruitment workflows, candidates, job ope
 
 `NestJS` `TypeScript` `MongoDB` `JWT`
 
-**Repository:** Link pending
-
-**Demo:** Not available
-
 ---
 
 > Some projects may have private repositories or deployment restrictions. Additional implementation details are available upon request.
@@ -231,25 +196,7 @@ A backend system designed to organize recruitment workflows, candidates, job ope
 
 <br />
 
-## 04 / GitHub Activity
-
-My public repositories, contributions and development activity.
-
-| Explore | Description |
-|:---|:---|
-| [Contributions](https://github.com/BCarreonC) | Public contribution history and activity |
-| [Repositories](https://github.com/BCarreonC?tab=repositories) | Source code and development projects |
-| [Starred Projects](https://github.com/BCarreonC?tab=stars) | Open-source projects and technologies |
-
-### Primary Programming Languages
-
-`TypeScript` · `Python` · `JavaScript`
-
-*Languages used across my software projects; not an automatically calculated usage ranking.*
-
-<br />
-
-## 05 / Currently Exploring
+## 04 / Currently Exploring
 
 | Area | Focus |
 |:---|:---|
@@ -260,28 +207,6 @@ My public repositories, contributions and development activity.
 | **Scalable Systems** | Reliability, performance and system design |
 
 <br />
-
-## 06 / Connect
-
-I'm interested in opportunities involving **Backend Development, Full-Stack Engineering and Artificial Intelligence**.
-
-Feel free to connect if you'd like to discuss software engineering, collaborate on interesting projects or exchange technical ideas.
-
-<div align="center">
-
-  <h3>Let's build something meaningful.</h3>
-
-  <p>
-    <a href="https://benjamincarreon.vercel.app/">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/benjamincarreon/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/BCarreonC">GitHub</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:benjamin.carreon@hotmail.com">Email</a>
-  </p>
-
-  <br />
 
   <sub>
     Benjamín Carreón · Software Engineer
